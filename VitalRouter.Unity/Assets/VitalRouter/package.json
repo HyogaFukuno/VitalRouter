@@ -1,12 +1,12 @@
 {
-  "name": "jp.hadashikick.vitalrouter",
+  "name": "jp.hyogafukuno.vitalrouter",
   "displayName": "VitalRouter",
   "version": "0.4.1",
   "unity": "2022.2",
   "description": "",
   "keywords": [],
   "license": "MIT",
-  "documentationUrl": "https://github.com/hadashiA/VitalRouter",
-  "changelogUrl": "https://github.com/hadashiA/VitalRouter/releases",
-  "licensesUrl": "https://github.com/hadashiA/VitalRouter/blob/master/LICENSE"
+  "documentationUrl": "https://github.com/HyogaFukuno/VitalRouter",
+  "changelogUrl": "https://github.com/HyogaFukuno/VitalRouter/releases",
+  "licensesUrl": "https://github.com/HyogaFukuno/VitalRouter/blob/master/LICENSE"
 }

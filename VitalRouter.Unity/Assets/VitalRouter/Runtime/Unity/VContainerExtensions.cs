@@ -134,7 +134,8 @@ public static class VContainerExtensions
         {
             builder.Register<Router>(Lifetime.Singleton)
                 .AsImplementedInterfaces()
-                .AsSelf();
+                .AsSelf()
+                .WithParameter(CommandOrdering.Parallel);
         }
 
         builder.RegisterVitalRouterInterceptors(routing);
